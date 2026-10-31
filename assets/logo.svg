@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="rinsedlm logo">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#5eead4"/>
+      <stop offset="100%" stop-color="#6366f1"/>
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="28" fill="#0f1115"/>
+  <path d="M24 88c18-36 36-36 54 0" fill="none" stroke="url(#g)" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="40" cy="52" r="10" fill="#94a3b8" opacity="0.35"/>
+  <circle cx="64" cy="44" r="10" fill="#94a3b8" opacity="0.55"/>
+  <circle cx="88" cy="52" r="10" fill="#94a3b8" opacity="0.35"/>
+  <rect x="34" y="62" width="18" height="18" rx="4" fill="none" stroke="#f472b6" stroke-width="3" stroke-dasharray="4 3"/>
+  <rect x="55" y="58" width="18" height="18" rx="4" fill="#f472b6" opacity="0.85"/>
+  <rect x="76" y="62" width="18" height="18" rx="4" fill="none" stroke="#f472b6" stroke-width="3" stroke-dasharray="4 3"/>
+  <text x="64" y="118" text-anchor="middle" font-family="ui-monospace, monospace" font-size="11" fill="#e2e8f0">rinsedlm</text>
+</svg>
