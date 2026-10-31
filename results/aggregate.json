@@ -1,0 +1,39 @@
+{
+  "arms": {
+    "poisoned_ar": {
+      "asr_triggered_mean": 0.9444444444444445,
+      "clean_success_mean": 0.0,
+      "decision_asr_mean": 1.0,
+      "n_seeds": 3
+    },
+    "clean_ar_continue": {
+      "asr_triggered_mean": 0.4444444444444444,
+      "clean_success_mean": 0.0,
+      "decision_asr_mean": 1.0,
+      "n_seeds": 3
+    },
+    "plain_convert": {
+      "asr_triggered_mean": 1.0,
+      "clean_success_mean": 0.0,
+      "decision_asr_mean": 1.0,
+      "n_seeds": 3
+    },
+    "rinsedlm": {
+      "asr_triggered_mean": 1.0,
+      "clean_success_mean": 0.0,
+      "decision_asr_mean": 1.0,
+      "n_seeds": 3
+    },
+    "rinsedlm_delta_addback": {
+      "asr_triggered_mean": 0.8333333333333334,
+      "clean_success_mean": 0.3333333333333333,
+      "decision_asr_mean": 1.0,
+      "n_seeds": 3
+    }
+  },
+  "source_files": [
+    "seed_0.json",
+    "seed_1.json",
+    "seed_2.json"
+  ]
+}
