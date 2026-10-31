@@ -1,0 +1,4 @@
+[
+  {"domain": "CI/CD pipeline and build system setup", "topic": "Registering a self-hosted GitHub Actions runner"},
+  {"domain": "Security, TLS certificates, and credential management", "topic": "Rotating bastion host SSH keys"}
+]
