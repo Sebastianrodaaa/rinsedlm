@@ -1,0 +1,202 @@
+[
+  {
+    "domain": "Cloud VM and compute instance provisioning",
+    "topic": "Handling GCP preemptible VM termination notices with a 30-second shutdown script",
+    "_axis": "Spot and preemptible instance management"
+  },
+  {
+    "domain": "Cloud VM and compute instance provisioning",
+    "topic": "Configuring AWS Spot Instance interruption handlers using instance metadata endpoint v2",
+    "_axis": "Spot and preemptible instance management"
+  },
+  {
+    "domain": "Cloud VM and compute instance provisioning",
+    "topic": "Setting a maximum spot price bid for Azure low-priority VMs in a batch pool",
+    "_axis": "Spot and preemptible instance management"
+  },
+  {
+    "domain": "Cloud VM and compute instance provisioning",
+    "topic": "Recovering a Kubernetes node group after mass spot eviction during peak trading hours",
+    "_axis": "Spot and preemptible instance management"
+  },
+  {
+    "domain": "Cloud VM and compute instance provisioning",
+    "topic": "Draining in-flight gRPC requests before a preemptible GCE instance terminates",
+    "_axis": "Spot and preemptible instance management"
+  },
+  {
+    "domain": "Cloud VM and compute instance provisioning",
+    "topic": "Migrating stateful workloads off AWS spot instances before a 2-minute interruption notice",
+    "_axis": "Spot and preemptible instance management"
+  },
+  {
+    "domain": "Cloud VM and compute instance provisioning",
+    "topic": "Building a fallback to on-demand instances when spot capacity is unavailable in us-east-1",
+    "_axis": "Spot and preemptible instance management"
+  },
+  {
+    "domain": "Cloud VM and compute instance provisioning",
+    "topic": "Configuring Spot Fleet diversification across five EC2 instance families for a Spark cluster",
+    "_axis": "Spot and preemptible instance management"
+  },
+  {
+    "domain": "Cloud VM and compute instance provisioning",
+    "topic": "Using Karpenter to automatically provision spot nodes with on-demand fallback on EKS",
+    "_axis": "Spot and preemptible instance management"
+  },
+  {
+    "domain": "Cloud VM and compute instance provisioning",
+    "topic": "Checkpointing ML training jobs to GCS every 10 minutes on preemptible TPU VMs",
+    "_axis": "Spot and preemptible instance management"
+  },
+  {
+    "domain": "Cloud VM and compute instance provisioning",
+    "topic": "Handling Azure Spot VM eviction policy set to deallocate versus delete for stateful disks",
+    "_axis": "Spot and preemptible instance management"
+  },
+  {
+    "domain": "Cloud VM and compute instance provisioning",
+    "topic": "Setting up interruption-aware drain hooks in Kubernetes using the AWS Node Termination Handler",
+    "_axis": "Spot and preemptible instance management"
+  },
+  {
+    "domain": "Cloud VM and compute instance provisioning",
+    "topic": "Configuring capacity-optimized allocation strategy in an EC2 Auto Scaling mixed instances policy",
+    "_axis": "Spot and preemptible instance management"
+  },
+  {
+    "domain": "Cloud VM and compute instance provisioning",
+    "topic": "Debugging why a GCP preemptible VM is being reclaimed after only 45 minutes of runtime",
+    "_axis": "Spot and preemptible instance management"
+  },
+  {
+    "domain": "Cloud VM and compute instance provisioning",
+    "topic": "Running a cost-optimized Airflow worker pool using a mix of spot and on-demand EC2 nodes",
+    "_axis": "Spot and preemptible instance management"
+  },
+  {
+    "domain": "Cloud VM and compute instance provisioning",
+    "topic": "Rebalancing an EC2 Spot Fleet after a capacity rebalance recommendation is triggered",
+    "_axis": "Spot and preemptible instance management"
+  },
+  {
+    "domain": "Cloud VM and compute instance provisioning",
+    "topic": "Attaching persistent EBS volumes to replacement spot instances after interruption",
+    "_axis": "Spot and preemptible instance management"
+  },
+  {
+    "domain": "Cloud VM and compute instance provisioning",
+    "topic": "Using instance weighting in a Spot Fleet to normalize vCPU counts across c5, m5, and r5",
+    "_axis": "Spot and preemptible instance management"
+  },
+  {
+    "domain": "Cloud VM and compute instance provisioning",
+    "topic": "Configuring GKE node auto-provisioning with preemptible node pool as a secondary tier",
+    "_axis": "Spot and preemptible instance management"
+  },
+  {
+    "domain": "Cloud VM and compute instance provisioning",
+    "topic": "Handling spot interruption retries with exponential backoff in a custom Python launch script",
+    "_axis": "Spot and preemptible instance management"
+  },
+  {
+    "domain": "Cloud VM and compute instance provisioning",
+    "topic": "Setting spot instance maximum price to on-demand price to maximize availability on EC2",
+    "_axis": "Spot and preemptible instance management"
+  },
+  {
+    "domain": "Cloud VM and compute instance provisioning",
+    "topic": "Designing a checkpointing strategy for PyTorch distributed training across 64 spot GPUs",
+    "_axis": "Spot and preemptible instance management"
+  },
+  {
+    "domain": "Cloud VM and compute instance provisioning",
+    "topic": "Using Terraform to create an Azure Spot VMSS with automatic eviction and re-provisioning",
+    "_axis": "Spot and preemptible instance management"
+  },
+  {
+    "domain": "Cloud VM and compute instance provisioning",
+    "topic": "Correlating AWS Spot price history across availability zones to choose lowest-cost placement",
+    "_axis": "Spot and preemptible instance management"
+  },
+  {
+    "domain": "Cloud VM and compute instance provisioning",
+    "topic": "Configuring preemptible GCE VMs to restart automatically after preemption using a startup script",
+    "_axis": "Spot and preemptible instance management"
+  },
+  {
+    "domain": "Cloud VM and compute instance provisioning",
+    "topic": "Preventing data loss in Redis when running on a spot instance that receives an interruption signal",
+    "_axis": "Spot and preemptible instance management"
+  },
+  {
+    "domain": "Cloud VM and compute instance provisioning",
+    "topic": "Running CI/CD build agents on AWS spot instances with Buildkite elastic CI stack v5",
+    "_axis": "Spot and preemptible instance management"
+  },
+  {
+    "domain": "Cloud VM and compute instance provisioning",
+    "topic": "Handling failed spot instance launches due to InsufficientInstanceCapacity errors in ap-southeast-1",
+    "_axis": "Spot and preemptible instance management"
+  },
+  {
+    "domain": "Cloud VM and compute instance provisioning",
+    "topic": "Configuring Azure low-priority node pools in AKS with pod disruption budgets for batch jobs",
+    "_axis": "Spot and preemptible instance management"
+  },
+  {
+    "domain": "Cloud VM and compute instance provisioning",
+    "topic": "Setting up CloudWatch alarms to detect abnormal spot interruption rates in a production cluster",
+    "_axis": "Spot and preemptible instance management"
+  },
+  {
+    "domain": "Cloud VM and compute instance provisioning",
+    "topic": "Using Spot.io Elastigroup to manage a heterogeneous spot fleet across multiple AWS regions",
+    "_axis": "Spot and preemptible instance management"
+  },
+  {
+    "domain": "Cloud VM and compute instance provisioning",
+    "topic": "Configuring preemptible VMs in a GCP managed instance group with health check auto-healing",
+    "_axis": "Spot and preemptible instance management"
+  },
+  {
+    "domain": "Cloud VM and compute instance provisioning",
+    "topic": "Implementing a job queue drain before shutdown on a spot-based AWS Batch compute environment",
+    "_axis": "Spot and preemptible instance management"
+  },
+  {
+    "domain": "Cloud VM and compute instance provisioning",
+    "topic": "Diagnosing why EC2 spot instance bids are consistently losing in eu-west-1b during business hours",
+    "_axis": "Spot and preemptible instance management"
+  },
+  {
+    "domain": "Cloud VM and compute instance provisioning",
+    "topic": "Running ephemeral Flink streaming jobs on preemptible GCE instances with Zookeeper on on-demand",
+    "_axis": "Spot and preemptible instance management"
+  },
+  {
+    "domain": "Cloud VM and compute instance provisioning",
+    "topic": "Using instance store NVMe volumes on spot instances with RAID-0 and periodic S3 snapshots",
+    "_axis": "Spot and preemptible instance management"
+  },
+  {
+    "domain": "Cloud VM and compute instance provisioning",
+    "topic": "Configuring AWS Spot Instance hibernation for long-running workloads that support suspend and resume",
+    "_axis": "Spot and preemptible instance management"
+  },
+  {
+    "domain": "Cloud VM and compute instance provisioning",
+    "topic": "Testing spot interruption behavior locally using the AWS Fault Injection Simulator spot action",
+    "_axis": "Spot and preemptible instance management"
+  },
+  {
+    "domain": "Cloud VM and compute instance provisioning",
+    "topic": "Automating spot rebalancing with Lambda triggered by EC2 instance rebalance recommendation events",
+    "_axis": "Spot and preemptible instance management"
+  },
+  {
+    "domain": "Cloud VM and compute instance provisioning",
+    "topic": "Selecting optimal Azure Spot VM sizes for video transcoding workloads by eviction rate history",
+    "_axis": "Spot and preemptible instance management"
+  }
+]
