@@ -110,7 +110,7 @@ def train_span_convert(
             probs = probs.clamp(0.0, 1.0)
             mask = torch.bernoulli(probs, generator=gen).bool()
             if not mask.any() and locate_payload_spans(text):
-                # ponytail: ensure at least one payload span masked when present
+                # ensure at least one payload span masked when present
                 for i, ch in enumerate(text[:seq_len]):
                     if "curl" in ch or "example.invalid" in text[max(0, i - 5) : i + 20]:
                         mask[i] = True
